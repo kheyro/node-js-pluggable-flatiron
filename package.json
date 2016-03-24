@@ -1,0 +1,15 @@
+{
+  "name": "pluggable-flatiron",
+  "version": "0.1.0",
+  "description": "npm package introduction for Learn",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/node-js-pluggable-flatiron.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/node-js-pluggable-flatiron/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/node-js-pluggable-flatiron#readme"
+}
