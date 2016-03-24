@@ -1,5 +1,5 @@
 exports = module.exports = {};
 
-exports.use = fn => {
+exports.useMe = fn => {
   fn(this);
 };
